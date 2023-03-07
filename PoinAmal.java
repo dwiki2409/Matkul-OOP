@@ -6,7 +6,7 @@ public class PoinAmal {
         int poinAmal = 0; // poin amal awalnya 0
         String tindakan;
         int nilaiTindakan;
-
+         System.out.println("w");
         System.out.println("===[ PROGRAM NILAI AMAL ]===");
 
         while (true) {
